@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Midpoint Circle Shapes</name>
+	<url>https://github.com/merthsoft/midpoint-circle-shape</url>
+	<author>merthsoft</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Merthsoft.DesignatorShapes.MidpointCircle</packageId>
+	<description>Adds midpoint circle outline and fill shapes to the drawing palette.
+
+Art by Halno.</description>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Commands/Smol/circle_filled</modIconPath>
+</ModMetaData>

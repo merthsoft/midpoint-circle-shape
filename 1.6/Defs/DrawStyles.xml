@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DrawStyleDef>
+    <defName>MidpointCircle</defName>
+    <label>midpoint circle</label>
+    <uiIconPath>UI/Commands/Smol/circle_filled</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.MidpointCircle.Filled</drawStyleType>
+    <drawOutline>false</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>MidpointCircleOutline</defName>
+    <label>midpoint circle outline</label>
+    <uiIconPath>UI/Commands/Smol/circle</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.MidpointCircle.Outline</drawStyleType>
+    <drawOutline>false</drawOutline>
+  </DrawStyleDef>
+</Defs>
