@@ -1,0 +1,26 @@
+<Patch>
+  <!-- Inject into Default2D -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/DrawStyleCategoryDef[defName="Default2D"]/styles</xpath>
+    <value>
+      <li>MidpointCircle</li>
+      <li>MidpointCircleOutline</li>
+    </value>
+  </Operation>
+
+  <!-- Inject into Fill2D -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/DrawStyleCategoryDef[defName="Fill2D"]/styles</xpath>
+    <value>
+      <li>MidpointCircle</li>
+    </value>
+  </Operation>
+
+  <!-- Inject into Default1D -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/DrawStyleCategoryDef[defName="Default1D"]/styles</xpath>
+    <value>
+      <li>MidpointCircleOutline</li>
+    </value>
+  </Operation>
+</Patch>
